@@ -19,7 +19,7 @@ const TableSection = () => {
               </p>
               <p className="pt-4 text-base black-text">
                 Vulnerabilities could allow users to mint CDP tokens or pension
-                shares indefinitely, disrupting the system's economic balance.
+                shares indefinitely, disrupting the system&apos;s economic balance.
               </p>
             </div>
           </div>

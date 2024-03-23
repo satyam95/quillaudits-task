@@ -15,7 +15,7 @@ const ContentSection = () => {
           </p>
           <div className="py-5"></div>
           <h2 className="black-text font-bold text-[34px] leading-[42px]">
-            CarpeDiem Pension's Flexible, Blockchain-Enabled Future
+            CarpeDiem Pension&apos;s Flexible, Blockchain-Enabled Future
           </h2>
           <div className="py-5"></div>
           <p className="text-lg black-text">
@@ -47,7 +47,7 @@ const ContentSection = () => {
           </div>
           <div className="py-5"></div>
           <h2 className="black-text font-bold text-[34px] leading-[42px]">
-            CarpeDiem Pension's Challenges: Enhancing Security Against
+            CarpeDiem Pension&apos;s Challenges: Enhancing Security Against
             Reentrancy, Front-Running, and Infinite Minting
           </h2>
           <div className="py-5"></div>
@@ -76,7 +76,7 @@ const ContentSection = () => {
           </div>
           <div className="py-5"></div>
           <h2 className="black-text font-bold text-[34px] leading-[42px]">
-            CarpeDiem Pension's Journey Through our Audit Process
+            CarpeDiem Pension&apos;s Journey Through our Audit Process
           </h2>
           <div className="py-5"></div>
           <ol className="list-decimal pl-6 marker:font-semibold marker:text-2xl marker:leading-[27px]">
@@ -90,7 +90,7 @@ const ContentSection = () => {
                   whitepaper, technical specifications, and design documents.
                 </li>
                 <li className="pb-4 text-lg black-text">
-                  Obtained a clear understanding of the CDP platform's
+                  Obtained a clear understanding of the CDP platform&apos;s
                   functionality, economic model, and intended user interactions.
                 </li>
                 <li className="text-lg black-text">
@@ -204,7 +204,7 @@ const ContentSection = () => {
           </ol>
           <div className="py-5"></div>
           <h2 className="black-text font-bold text-[34px] leading-[42px]">
-            QuillAudits' Strategic Approach to CDP Security Audits
+            QuillAudits&apos; Strategic Approach to CDP Security Audits
           </h2>
           <div className="py-5"></div>
           <p className="text-lg black-text">
@@ -224,7 +224,7 @@ const ContentSection = () => {
           <p className="text-lg black-text">
             Throughout the audit process, we unearthed a total of 33 issues,
             spanning from minor concerns to critical vulnerabilities. Among
-            these, some of the critical issues identified were: Here's how we
+            these, some of the critical issues identified were: Here&apos;s how we
             remediated them :
           </p>
           <ol className="list-decimal mt-7 pl-6 marker:text-lg marker:black-text marker:font-semibold">
@@ -293,7 +293,7 @@ const ContentSection = () => {
           <div className="py-5"></div>
           <p className="text-lg black-text">
             All identified vulnerabilities were addressed by the CDP team,
-            significantly enhancing the smart contract's security posture. Key
+            significantly enhancing the smart contract&apos;s security posture. Key
             improvements include
           </p>
           <ul className="list-disc mt-7 pl-6 marker:text-lg marker:black-text marker:font-normal">
